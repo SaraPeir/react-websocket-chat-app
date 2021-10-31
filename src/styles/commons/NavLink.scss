@@ -1,0 +1,19 @@
+@import '../variables.scss';
+
+.nav-link  {
+    text-decoration: none;
+    color: $primary-color;
+    border-radius: 5px;
+}
+
+.nav-link:hover{
+    color: $primary-color;
+}
+
+.nav-link:active{
+    color: $primary-color;
+}
+
+.nav-header-link:focus{
+    color: $primary-color;
+}
